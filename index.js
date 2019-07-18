@@ -13,9 +13,9 @@ function takeAnewNumber(person){
   let peronNum = person;
   let ticketMeal = 1;
   
-  let greeting = `you are ${ticketMeal}`
+  let newGreeting = `you are ${ticketMeal}`;
    ticketMeal++;
-  
+  return newGreeting;
   
 }
 
