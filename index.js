@@ -8,10 +8,10 @@ function takeANumber(myDeliLine, name) {
   return greeting;
 }
 
+let ticketMeal = 1;
 
 function takeAnewNumber(person){
   let peronNum = person;
-  let ticketMeal = 1;
   
   let newGreeting = `you are ${ticketMeal}`;
    ticketMeal++;
