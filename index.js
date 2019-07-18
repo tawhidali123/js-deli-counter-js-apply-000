@@ -19,7 +19,9 @@ function takeAnewNumber(person){
   
 }
 
-takeAnewNumber();
+takeAnewNumber("amy");
+takeAnewNumber('john');
+takeAnewNumber('jacob');
 
 
 
